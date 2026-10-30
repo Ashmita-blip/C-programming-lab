@@ -1,4 +1,4 @@
-//W.C P. to check whether a number is prime or not first using while loop then using for loop//
+//W.C P. to check whether a number is prime or not using while loop//
 #include<stdio.h>
 int main()
 {
