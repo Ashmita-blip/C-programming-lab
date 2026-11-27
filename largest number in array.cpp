@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-	int a[5],i,max=0;
+	int a[5],i,max=a[0];
 	for(i=0;i<5;i++)
 	{
 		printf("enter no%d element=",i+1);
